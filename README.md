@@ -1,35 +1,7 @@
 # SantanderChallenge
 repository for the santander kaggle challenge
 
-<!DOCTYPE html>
-<html>
-<head>
-	<style>
-	table {
-	  font-family: arial, sans-serif;
-	  border-collapse: collapse;
-	  width: 100%;
-	  zoom: .7;
-	}
-
-	td, th {
-	  border: 1px solid #dddddd;
-	  text-align: left;
-	  padding: 8px;
-	}
-
-	tr:nth-child(even) {
-	  background-color: #dddddd;
-	}
-	</style>
-</head>
-<body>
-
-
-
-	
-
-	<h2>Equipe5<h2>
+<h2>Equipe5<h2>
 	<p>
 		Código do Desafio Santander (Kaggle)
 		Disponível em <a href="https://github.com/fredhrl/SantanderChallenge">https://github.com/fredhrl/SantanderChallenge </a>
@@ -62,6 +34,3 @@ repository for the santander kaggle challenge
 	  </tr>
 	  
 	</table>
-
-</body>
-</html>
